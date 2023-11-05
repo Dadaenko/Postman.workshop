@@ -2,7 +2,9 @@ import express from "express";
 const app = express();
 const port = 3000;
 
-// You need to start nodemon server by typing in the console: nodemon node.js
+// You need to start nodemon server by typing in the console: nodemon index.js
+//To run it, you should also run command: npm i 
+// It will download all the necessary dependencies that are essential for running this project. 
 
 // *********************
 // Let’s practice using Postman. Make sure your server is running with nodemon.
