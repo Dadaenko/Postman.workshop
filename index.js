@@ -2,6 +2,8 @@ import express from "express";
 const app = express();
 const port = 3000;
 
+// You need to start nodemon server by typing in the console: nodemon node.js
+
 // *********************
 // Let’s practice using Postman. Make sure your server is running with nodemon.
 // Then test the 5 different routes below with Postman. Open a separate tab for each request.
