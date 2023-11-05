@@ -1,0 +1,16 @@
+{
+  "name": "3.3-postman",
+  "version": "1.0.0",
+  "description": "Here is a mock project to play around Postman requests and responses.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daria Makarenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
